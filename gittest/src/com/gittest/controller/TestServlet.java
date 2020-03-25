@@ -28,7 +28,11 @@ public class TestServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		if(true) {
+
 			System.out.println("하하하하하");
+
+			System.out.println("호호호호호홓");
+
 			System.out.println("asdfasdf");
 			
 		}
