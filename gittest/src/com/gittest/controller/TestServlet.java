@@ -35,6 +35,9 @@ public class TestServlet extends HttpServlet {
 
 			System.out.println("asdfasdf");
 			
+			
+			System.out.println("이건 test가 추가한 내용");
+			
 		}
 		System.out.println("충돌!!!");
 		
