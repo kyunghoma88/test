@@ -32,8 +32,9 @@ public class Test2Servlet extends HttpServlet {
 		int age = 19;
 		
 		// 내가 수정한것
-		if(age>10) {
-			System.out.println("내가 수정한 내용!!");
+		switch(age) {
+		case 19: System.out.println("내가 수정한 내용!");break;
+		case 20: System.out.println("내가 수정한 내용!2");break;
 		}
 		
 	}
