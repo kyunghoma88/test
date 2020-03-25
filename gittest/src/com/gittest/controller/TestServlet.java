@@ -38,6 +38,8 @@ public class TestServlet extends HttpServlet {
 			
 			System.out.println("이건 test가 추가한 내용");
 			
+			System.out.println("이거 추가한것!!!");
+			
 		}
 		System.out.println("충돌!!!");
 		
